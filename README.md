@@ -1,0 +1,1 @@
+Foi desenvolvida uma aplicação utilizando ASP.NET Core MVC, baseada nos princípios de Domain-Driven Design (DDD) e empregando o Entity Framework Core como ferramenta de mapeamento objeto-relacional (ORM). A aplicação foi construída sobre a versão mais recente do .NET, a versão 8, garantindo o uso das funcionalidades e melhorias mais atuais oferecidas pela plataforma.
